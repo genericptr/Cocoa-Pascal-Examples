@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="15400" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="15400"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <customObject id="-2" userLabel="File's Owner" customClass="TSettingsViewController">
+            <connections>
+                <outlet property="checkButton" destination="yZl-Ac-XBN" id="X1Q-43-oJU"/>
+                <outlet property="segmentedControl" destination="MQr-ul-sNd" id="DcM-uP-EdD"/>
+                <outlet property="view" destination="Hz6-mo-xeY" id="0bl-1N-x8E"/>
+            </connections>
+        </customObject>
+        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
+        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
+        <customView id="Hz6-mo-xeY">
+            <rect key="frame" x="0.0" y="0.0" width="480" height="272"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <button verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="yZl-Ac-XBN">
+                    <rect key="frame" x="83" y="222" width="61" height="18"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+                    <buttonCell key="cell" type="check" title="Check" bezelStyle="regularSquare" imagePosition="left" state="on" inset="2" id="o8s-7z-Bfd">
+                        <behavior key="behavior" changeContents="YES" doesNotDimImage="YES" lightByContents="YES"/>
+                        <font key="font" metaFont="system"/>
+                    </buttonCell>
+                </button>
+                <imageView horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="9sK-4p-fqY">
+                    <rect key="frame" x="17" y="207" width="48" height="48"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+                    <imageCell key="cell" refusesFirstResponder="YES" alignment="left" imageScaling="proportionallyDown" imageFrameStyle="grayBezel" id="SuP-7G-UOQ"/>
+                </imageView>
+                <segmentedControl verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="MQr-ul-sNd">
+                    <rect key="frame" x="18" y="146" width="233" height="24"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+                    <segmentedCell key="cell" borderStyle="border" alignment="left" style="rounded" trackingMode="selectOne" id="Bsb-7M-AJd">
+                        <font key="font" metaFont="system"/>
+                        <segments>
+                            <segment label="Item 1" width="75"/>
+                            <segment label="Item 2" width="75" selected="YES" tag="1"/>
+                            <segment label="Item 3" width="75"/>
+                        </segments>
+                    </segmentedCell>
+                </segmentedControl>
+            </subviews>
+            <point key="canvasLocation" x="140" y="154"/>
+        </customView>
+    </objects>
+</document>
