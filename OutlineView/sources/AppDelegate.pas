@@ -32,7 +32,7 @@ type
     private
       window: NSWindow;
       dataOutlineView: NSOutlineView;
-      items: TDataNodeList;
+      root: TDataNode;
   	public
       procedure loadData; message 'loadData';
   		procedure applicationDidFinishLaunching(notification: NSNotification); message 'applicationDidFinishLaunching:';
@@ -156,9 +156,9 @@ function TAppDelegate.outlineView_numberOfChildrenOfItem (outlineView: NSOutline
 begin
   if item = nil then
     begin
-      if items = nil then
+      if root = nil then
         loadData;
-      result := items.Count;
+      result := root.ChildCount;
     end
   else
     result := TDataNode(item.obj).ChildCount;
@@ -167,9 +167,7 @@ end;
 function TAppDelegate.outlineView_child_ofItem (outlineView: NSOutlineView; index: NSInteger; item: id): id;
 begin
   if item = nil then
-    begin
-      result := items[index].ref
-    end
+    result := root.ItemAt(index)
   else
     result := TDataNode(item.obj).ItemAt(index);
 end;
@@ -252,7 +250,7 @@ begin
               if target = nil then
                 begin
                   source.RemoveFromParent;
-                  items.Add(source);
+                  root.AddChild(source);
                 end
               else
                 begin
@@ -291,10 +289,8 @@ procedure TAppDelegate.loadData;
 var
   node: TDataNode;
 begin
-  items := TDataNodeList.Create;
-
-  items.Add(TDataNode.Create('/Users/ryanjoseph/Desktop/FPCLS-Test'));
-  items.Add(TDataNode.Create('/Users/ryanjoseph/Desktop/Projects'));
+  root := TDataNode.Create(NSSTR('~/Desktop').stringByExpandingTildeInPath.UTF8String);
+  root.Reload;
 end;
 
 procedure TAppDelegate.applicationDidFinishLaunching(notification : NSNotification);
