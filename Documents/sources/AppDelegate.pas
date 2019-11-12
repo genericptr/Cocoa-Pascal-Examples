@@ -7,13 +7,19 @@ uses
 	CocoaAll;
 
 type
-  TCustomDocument = objcclass (NSDocument)
+  TCustomDocument = objcclass (NSDocument, NSTextViewDelegateProtocol)
     public
       function initWithType_error (typeName: NSString; outError: NSErrorPtr): id; override;
       function writeToURL_ofType_error (url: NSURL; typeName: NSString; outError: NSErrorPtr): objcbool; override;
       function readFromURL_ofType_error (url: NSURL; typeName: NSString; outError: NSErrorPtr): objcbool; override;
-      function displayName: NSString; override;
       function windowNibName: NSString; override;
+      procedure awakeFromNib; override;
+    private
+      contentTextView: NSTextView;
+      documentText: NSString;
+
+      { NSTextViewDelegateProtocol }
+      function textView_shouldChangeTextInRanges_replacementStrings (textView: NSTextView; affectedRanges: NSArray; replacementStrings: NSArray): objcbool; message 'textView:shouldChangeTextInRanges:replacementStrings:';
   end;
 
 type
@@ -23,6 +29,24 @@ type
  	end;
 
 implementation
+uses
+  CocoaUtils;
+
+function TCustomDocument.textView_shouldChangeTextInRanges_replacementStrings (textView: NSTextView; affectedRanges: NSArray; replacementStrings: NSArray): objcbool;
+begin
+  updateChangeCount(NSChangeDone);
+  result := true;
+end;
+
+procedure TCustomDocument.awakeFromNib;
+begin
+  if documentText <> nil then
+    begin
+      contentTextView.setString(documentText);
+      documentText.release;
+      documentText := nil;
+    end;
+end;
 
 function TCustomDocument.initWithType_error (typeName: NSString; outError: NSErrorPtr): id;
 begin
@@ -36,18 +60,13 @@ end;
 
 function TCustomDocument.writeToURL_ofType_error (url: NSURL; typeName: NSString; outError: NSErrorPtr): objcbool;
 begin
-  { Insert code here to write your document to data of the specified type. }
-  result := true;
+  result := contentTextView.textStorage.string_.writeToURL_atomically_encoding_error(url, false, NSUTF8StringEncoding, @outError);
 end;
 
 function TCustomDocument.readFromURL_ofType_error (url: NSURL; typeName: NSString; outError: NSErrorPtr): objcbool;
 begin
-  { Insert code here to read your document from the given data of the specified type. }
-end;
-
-function TCustomDocument.displayName: NSString;
-begin
-  result := NSSTR('Custom Document');
+  documentText := NSString.alloc.initWithContentsOfURL_usedEncoding_error(url, nil, @outError);
+  result := true;
 end;
 
 { Using this name, NSDocument creates and instantiates a default instance of 

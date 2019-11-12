@@ -9,6 +9,7 @@
 #import <Cocoa/Cocoa.h>
 
 @interface TCustomDocument : NSDocument
+@property (unsafe_unretained) IBOutlet NSTextView *contentTextView;
 
 
 @end
