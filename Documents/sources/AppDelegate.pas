@@ -92,9 +92,7 @@ begin
   controller := TCustomWindowController.alloc.initWithData(data);
   addWindowController(controller);
   controller.release;
-end;
-
-}
+end; }
 
 procedure TAppDelegate.applicationDidFinishLaunching(notification : NSNotification);
 begin
