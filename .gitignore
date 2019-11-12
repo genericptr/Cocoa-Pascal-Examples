@@ -1,0 +1,9 @@
+# Specify filepatterns you want git to ignore.
+
+*/bundle.debug.ppcx64
+*/BaseUI/DerivedData
+*/*.app
+
+*/*.sublime-project
+*/*.code-workspace
+*/.vscode
