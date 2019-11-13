@@ -41,12 +41,12 @@ type
       function outlineView_numberOfChildrenOfItem (outlineView: NSOutlineView; item: id): NSInteger; message 'outlineView:numberOfChildrenOfItem:';
       function outlineView_child_ofItem (outlineView: NSOutlineView; index: NSInteger; item: id): id; message 'outlineView:child:ofItem:';
       function outlineView_isItemExpandable (outlineView: NSOutlineView; item: id): boolean; message 'outlineView:isItemExpandable:';
-      function outlineView_objectValueForTableColumn_byItem (outlineView: NSOutlineView; tableColumn: NSTableColumn; item: id): id; message 'outlineView:objectValueForTableColumn:byItem:';
       function outlineView_writeItems_toPasteboard(outlineView: NSOutlineView; writeItems: NSArray; pasteboard: NSPasteboard): Boolean; message 'outlineView:writeItems:toPasteboard:';
       function outlineView_validateDrop_proposedItem_proposedChildIndex(outlineView: NSOutlineView; info: id; item: id; index: NSInteger): NSDragOperation; message 'outlineView:validateDrop:proposedItem:proposedChildIndex:';
       function outlineView_acceptDrop_item_childIndex(outlineView: NSOutlineView; info: NSDraggingInfoProtocol; item: id; index: NSInteger): Boolean; message 'outlineView:acceptDrop:item:childIndex:';
 
       { NSOutlineViewDelegateProtocol }
+      function outlineView_viewForTableColumn_item (outlineView: NSOutlineView; tableColumn: NSTableColumn; item: id): NSView; message 'outlineView:viewForTableColumn:item:';
       procedure outlineViewItemWillExpand (notification: NSNotification); message 'outlineViewItemWillExpand:';
       procedure outlineViewItemDidCollapse (notification: NSNotification); message 'outlineViewItemDidCollapse:';
 
@@ -58,6 +58,11 @@ uses
 
 var
   DataNodeTag: NSString;
+
+type
+  TCustomCellView = objcclass (NSTableCellView)
+    labelView: NSTextField;
+  end;
 
 constructor TDataNode.Create(_path: ansistring);
 begin
@@ -182,19 +187,46 @@ begin
     result := TDataNode(item.obj).IsFolder;
 end;
 
-function TAppDelegate.outlineView_objectValueForTableColumn_byItem (outlineView: NSOutlineView; tableColumn: NSTableColumn; item: id): id;
+
+function TAppDelegate.outlineView_viewForTableColumn_item (outlineView: NSOutlineView; tableColumn: NSTableColumn; item: id): NSView;
+var
+  node: TDataNode;
+  cellView: NSTableCellView;
+  customCellView: TCustomCellView;
+  fileImage: NSImage;
+  formatter: NSDateFormatter;
 begin
   if tableColumn.title = 'Name' then
-    result := NSSTR(TDataNode(item.obj).FileName)
+    begin
+      customCellView := outlineView.makeViewWithIdentifier_owner(NSSTR('CustomCell'), self);
+      
+      node := TDataNode(item.obj);
+
+      fileImage := NSWorkspace.sharedWorkspace.iconForFile(NSSTR(node.path));
+
+      customCellView.textField.setStringValue(NSSTR(node.FileName));
+      customCellView.imageView.setImage(fileImage);
+      customCellView.labelView.setStringValue(NSSTR('Last modified: '+DateTimeToStr(FileDateToDateTime(FileAge(node.path)))));
+
+      result := customCellView;
+    end
   else if tableColumn.title = 'Children' then
     begin
-      if TDataNode(item.obj).IsFolder then
-        result := NSSTR(IntToStr(TDataNode(item.obj).ChildCount))
+      cellView := outlineView.makeViewWithIdentifier_owner(NSSTR('DataCell'), self);
+
+      node := TDataNode(item.obj);
+
+      if node.IsFolder then
+        cellView.textField.setStringValue(NSSTR(IntToStr(node.ChildCount)))
       else
-        result := nil;
+        cellView.textField.setStringValue(NSSTR(''));
+
+      result := cellView;
     end
   else
     result := nil;
+
+
 end;
 
 function TAppDelegate.outlineView_writeItems_toPasteboard(outlineView: NSOutlineView; writeItems: NSArray; pasteboard: NSPasteboard): Boolean;
