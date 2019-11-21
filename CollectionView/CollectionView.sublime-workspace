@@ -1,0 +1,2944 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"collection",
+				"collectionView"
+			],
+			[
+				"thm",
+				"thumbnail"
+			],
+			[
+				"icon",
+				"iconView"
+			],
+			[
+				"file",
+				"fileURLWithPath"
+			],
+			[
+				"quc",
+				"quicklookThread"
+			],
+			[
+				"coll",
+				"collectionView"
+			],
+			[
+				"reload",
+				"reloadFolder"
+			],
+			[
+				"TItem",
+				"TItemDataList"
+			],
+			[
+				"NSCO",
+				"NSCollectionViewItem"
+			],
+			[
+				"TVec",
+				"TVec2i"
+			],
+			[
+				"for",
+				"forin\tfor … in"
+			],
+			[
+				"Scree",
+				"ScreenToView"
+			],
+			[
+				"SCren",
+				"ScreenToView"
+			],
+			[
+				"stroke",
+				"StrokeRect"
+			],
+			[
+				"heapI",
+				"heapIndex"
+			],
+			[
+				"THea",
+				"THeapItem"
+			],
+			[
+				"THEa",
+				"THeapItem"
+			],
+			[
+				"TMY",
+				"TMyClass"
+			],
+			[
+				"TMyCL",
+				"TMyClassHeap"
+			],
+			[
+				"line",
+				"line_num"
+			],
+			[
+				"hide_",
+				"hide_phantoms"
+			],
+			[
+				"fr",
+				"for\tFor Loop"
+			],
+			[
+				"TRect",
+				"TRectHeap"
+			],
+			[
+				"TH",
+				"TRectHeap"
+			],
+			[
+				"T",
+				"THeapItemList"
+			],
+			[
+				"TShader",
+				"TShaderObjectList"
+			],
+			[
+				"select",
+				"selectedTileIndex"
+			],
+			[
+				"fra",
+				"fragColor"
+			],
+			[
+				"object",
+				"ObjectVertexShader"
+			],
+			[
+				"TVec2",
+				"TVec2i"
+			],
+			[
+				"TVe",
+				"TVec2"
+			],
+			[
+				"world",
+				"worldPoint"
+			],
+			[
+				"TMAp",
+				"TMap"
+			],
+			[
+				"TMapTil",
+				"TMapObjectList"
+			],
+			[
+				"col",
+				"column"
+			],
+			[
+				"NB",
+				"NbType"
+			],
+			[
+				"TMAP",
+				"TMapColumn"
+			],
+			[
+				"tileD",
+				"tileDepth"
+			],
+			[
+				"He",
+				"HeightAt"
+			],
+			[
+				"Gr",
+				"Ground"
+			],
+			[
+				"Vert",
+				"VerticalFront"
+			],
+			[
+				"new",
+				"newPos"
+			],
+			[
+				"TQuad",
+				"TQuadTreeItem"
+			],
+			[
+				"TMapOBject",
+				"TMapObjectNode"
+			],
+			[
+				"TQuadTree",
+				"TQuadTreeItem"
+			],
+			[
+				"TQuadTr",
+				"TQuadTreeItemList"
+			],
+			[
+				"TObject",
+				"TObjectList"
+			],
+			[
+				"DrawSor",
+				"DrawSortQuad"
+			],
+			[
+				"Sort",
+				"SortTileObjects"
+			],
+			[
+				"GLPT",
+				"GLPT_GetTime"
+			],
+			[
+				"TMapTile",
+				"TMapTileProperty"
+			],
+			[
+				"TV",
+				"TVec3"
+			],
+			[
+				"if",
+				"ifdef\tifdef .. endif"
+			],
+			[
+				"sort",
+				"sortingBoxOffset"
+			],
+			[
+				"map",
+				"MapViewOffset"
+			],
+			[
+				"vetex",
+				"vertexArrayObject"
+			],
+			[
+				"ver",
+				"vertexBuffer"
+			],
+			[
+				"TSortingV",
+				"TSortingVertexShader"
+			],
+			[
+				"GLCanvas",
+				"GLCanvasState"
+			],
+			[
+				"TSorting",
+				"TSortingQuad"
+			],
+			[
+				"COmp",
+				"Components"
+			],
+			[
+				"GLCa",
+				"GLCanvasState"
+			],
+			[
+				"GLCA",
+				"GLCanvasState"
+			],
+			[
+				"GL_R",
+				"GL_RGB"
+			],
+			[
+				"GL_RB",
+				"GL_RGBA"
+			],
+			[
+				"DrawTx",
+				"DrawTexture"
+			],
+			[
+				"shader",
+				"shaderAttributes"
+			],
+			[
+				"program",
+				"programID"
+			],
+			[
+				"TSha",
+				"TShaderAttribute"
+			],
+			[
+				"TMap",
+				"TMapObject"
+			],
+			[
+				"REmove",
+				"RemoveObject"
+			],
+			[
+				"TMapO",
+				"TMapObjectList"
+			],
+			[
+				"TActo",
+				"TActorReferenceList"
+			],
+			[
+				"TAct",
+				"TActorReference"
+			],
+			[
+				"TJSOn",
+				"TJSONArray"
+			],
+			[
+				"WINdo",
+				"WINDOW_SIZE_WIDTH"
+			],
+			[
+				"texture",
+				"textureID"
+			],
+			[
+				"TGL",
+				"TGLTextureUnit"
+			],
+			[
+				"Texture",
+				"TextureSlots"
+			],
+			[
+				"TGLTe",
+				"TGLTextureID"
+			],
+			[
+				"GetTexture",
+				"GetTextureUnit"
+			],
+			[
+				"GetMax",
+				"GetMaximumTextureUnits"
+			],
+			[
+				"Draw",
+				"DrawDebug"
+			],
+			[
+				"window_si",
+				"window_size_height"
+			],
+			[
+				"windo",
+				"window_size_width"
+			],
+			[
+				"halt",
+				"halfTileWidth"
+			],
+			[
+				"STroe",
+				"StrokeRect"
+			],
+			[
+				"wind",
+				"window_size_width"
+			],
+			[
+				"TJ",
+				"TJSONArray"
+			],
+			[
+				"TJSON",
+				"TJSONObject"
+			],
+			[
+				"TJson",
+				"TJSONArray"
+			],
+			[
+				"wait",
+				"waitForKey"
+			],
+			[
+				"TSYm",
+				"TSymbol"
+			],
+			[
+				"Tsymb",
+				"TSymbolGroup"
+			],
+			[
+				"TS",
+				"TSymbol"
+			],
+			[
+				"TSYmo",
+				"TSymbolGroup"
+			],
+			[
+				"TJS",
+				"TJSONObject"
+			],
+			[
+				"content",
+				"contentChanges"
+			],
+			[
+				"TString",
+				"TStringList"
+			],
+			[
+				"ext",
+				"extensions"
+			],
+			[
+				"text",
+				"textDocumentSync"
+			],
+			[
+				"Item",
+				"CompletionItem"
+			],
+			[
+				"comment",
+				"comment\tcomment (* ... *)"
+			],
+			[
+				"Comp",
+				"CompletionOptions"
+			],
+			[
+				"Pinr",
+				"PrintColor"
+			],
+			[
+				"try",
+				"try\ttry .. except"
+			],
+			[
+				"TFlo",
+				"TFloatValue"
+			],
+			[
+				"TDict",
+				"TDictType"
+			],
+			[
+				"int",
+				"int\tinterface"
+			],
+			[
+				"TDICT",
+				"TDictType"
+			],
+			[
+				"dict",
+				"dictValue"
+			],
+			[
+				"parse",
+				"parse_element"
+			],
+			[
+				"arra",
+				"arrayValue"
+			],
+			[
+				"Add",
+				"AddComponent"
+			],
+			[
+				"kTokenE",
+				"kTokenExclamationMark"
+			],
+			[
+				"file_p",
+				"file_put_contents"
+			],
+			[
+				"Short",
+				"ShortString"
+			],
+			[
+				"GetVale",
+				"GetValueInternal"
+			],
+			[
+				"GetValue",
+				"GetValueAtIndex"
+			],
+			[
+				"stat",
+				"statements"
+			],
+			[
+				"fo",
+				"forin\tfor … in"
+			],
+			[
+				"flag_",
+				"flag_compiler"
+			],
+			[
+				"fpc",
+				"fpc_version"
+			],
+			[
+				"byte",
+				"byteCount"
+			],
+			[
+				"S",
+				"SharedProcess"
+			],
+			[
+				"TFile",
+				"TFileDescEnumerator"
+			],
+			[
+				"TXML",
+				"TXMLNode"
+			],
+			[
+				"TML",
+				"TXMLNode"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "sources/AppDelegate.pas",
+			"settings":
+			{
+				"buffer_size": 10966,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sources/CollectionView.pas",
+			"settings":
+			{
+				"buffer_size": 191,
+				"encoding": "UTF-8",
+				"line_ending": "CR"
+			}
+		},
+		{
+			"file": "sources/CocoaUtils.pas",
+			"settings":
+			{
+				"buffer_size": 2155,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/ryanjoseph/Library/Application Support/Sublime Text 3/Packages/FPC/fpc_exec.py",
+			"settings":
+			{
+				"buffer_size": 6234,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/ryanjoseph/Library/Application Support/Sublime Text 3/Packages/Default/exec.py",
+			"settings":
+			{
+				"buffer_size": 16459,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/ryanjoseph/Developer/Projects/FPC/Desklets/Sources/ScriptBrowser.pas",
+			"settings":
+			{
+				"buffer_size": 32450,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/ryanjoseph/Developer/Projects/FPC/Desklets/Sources/FavoritesBrowser.pas",
+			"settings":
+			{
+				"buffer_size": 6046,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/ryanjoseph/Developer/Projects/FPC/Desklets/Sources/CollectionViewUtilities.pas",
+			"settings":
+			{
+				"buffer_size": 5227,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C# Compile & Run/CSharpSingleFileBuild.sublime-build",
+					""
+				],
+				[
+					"Packages/C# Compile & Run/CSharpSingleFileBuild.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C# Compile & Run/CSharpSingleFileBuild.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Debug"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Debug"
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Xcode"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/FPC/FPC.sublime-build",
+					""
+				],
+				[
+					"Packages/FPC/FPC.sublime-build",
+					"Debug"
+				],
+				[
+					"Packages/FPC/FPC.sublime-build",
+					"Lazarus"
+				],
+				[
+					"Packages/FPC/FPC.sublime-build",
+					"PasScript"
+				],
+				[
+					"Packages/FPC/FPC.sublime-build",
+					"VSCode"
+				]
+			],
+			[
+				"Packages/FPC/FPC.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/FPC/FPC.sublime-build",
+					""
+				],
+				[
+					"Packages/FPC/FPC.sublime-build",
+					"Debug"
+				],
+				[
+					"Packages/FPC/FPC.sublime-build",
+					"Lazarus"
+				],
+				[
+					"Packages/FPC/FPC.sublime-build",
+					"VSCode"
+				]
+			],
+			[
+				"Packages/FPC/FPC.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/FPC/FPC.sublime-build",
+					""
+				],
+				[
+					"Packages/FPC/FPC.sublime-build",
+					"Quick"
+				],
+				[
+					"Packages/FPC/FPC.sublime-build",
+					"Debug"
+				],
+				[
+					"Packages/FPC/FPC.sublime-build",
+					"Lazarus"
+				],
+				[
+					"Packages/FPC/FPC.sublime-build",
+					"PasScript"
+				],
+				[
+					"Packages/FPC/FPC.sublime-build",
+					"VSCode"
+				]
+			],
+			[
+				"Packages/FPC/FPC.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/FPC/fpc.sublime-build",
+					""
+				],
+				[
+					"Packages/FPC/fpc.sublime-build",
+					"Debug"
+				]
+			],
+			[
+				"Packages/FPC/fpc.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/FPC/fpc.sublime-build",
+					""
+				],
+				[
+					"Packages/FPC/fpc.sublime-build",
+					"Debug"
+				],
+				[
+					"Packages/FPC/fpc.sublime-build",
+					"BootDebug"
+				]
+			],
+			[
+				"Packages/FPC/fpc.sublime-build",
+				"Debug"
+			]
+		],
+		[
+			[
+				[
+					"Packages/FPC/fpc.sublime-build",
+					""
+				],
+				[
+					"Packages/FPC/fpc.sublime-build",
+					"Debug"
+				],
+				[
+					"Packages/FPC/fpc.sublime-build",
+					"Lazarus"
+				],
+				[
+					"Packages/FPC/fpc.sublime-build",
+					"Console"
+				],
+				[
+					"Packages/FPC/fpc.sublime-build",
+					"VSCode"
+				]
+			],
+			[
+				"Packages/FPC/fpc.sublime-build",
+				"Console"
+			]
+		],
+		[
+			[
+				[
+					"Packages/FPC/fpc.sublime-build",
+					""
+				],
+				[
+					"Packages/FPC/fpc.sublime-build",
+					"Debug"
+				],
+				[
+					"Packages/FPC/fpc.sublime-build",
+					"Lazarus"
+				],
+				[
+					"Packages/FPC/fpc.sublime-build",
+					"VSCode"
+				]
+			],
+			[
+				"Packages/FPC/fpc.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/FPC/fpc.sublime-build",
+					""
+				],
+				[
+					"Packages/FPC/fpc.sublime-build",
+					"Debug"
+				],
+				[
+					"Packages/FPC/fpc.sublime-build",
+					"VSCode"
+				],
+				[
+					"Packages/FPC/pas2js.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/FPC/fpc.sublime-build",
+				"VSCode"
+			]
+		],
+		[
+			[
+				[
+					"Packages/FPC/fpc.sublime-build",
+					""
+				],
+				[
+					"Packages/FPC/pas2js.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/FPC/fpc.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/C# Console.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C# Console.sublime-build",
+					"Console"
+				],
+				[
+					"Packages/User/C# Console.sublime-build",
+					".NET"
+				]
+			],
+			[
+				"Packages/User/C# Console.sublime-build",
+				".NET"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/CSharp.sublime-build",
+					""
+				],
+				[
+					"Packages/User/CSharp.sublime-build",
+					"Mono"
+				],
+				[
+					"Packages/User/CSharp.sublime-build",
+					".NET"
+				]
+			],
+			[
+				"Packages/User/CSharp.sublime-build",
+				".NET"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/MatLab.sublime-build",
+					""
+				],
+				[
+					"Packages/User/MatLab.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/MatLab.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 362.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"open",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"fpc",
+				"Set Syntax: FPC"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"disable",
+				"LSP: Disable Language Server in Project"
+			],
+			[
+				"enable",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"glsl",
+				"Set Syntax: GLSL"
+			],
+			[
+				"colorp",
+				"Color Picker"
+			],
+			[
+				"color pick",
+				"Color Picker"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"Upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"disable ",
+				"LSP: Disable Language Server in Project"
+			],
+			[
+				"restart",
+				"LSP: Restart Servers"
+			],
+			[
+				"lsp",
+				"LSP: Disable Language Server in Project"
+			],
+			[
+				"make",
+				"Set Syntax: Makefile"
+			],
+			[
+				"c",
+				"Set Syntax: C++"
+			],
+			[
+				"opn",
+				"Tasks: Open Link"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"syntax todo",
+				"Set Syntax: Git Rebase Todo"
+			],
+			[
+				"list",
+				"Set Syntax: Property List (XML)"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"matlab",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"settings",
+				"Preferences: Settings – Syntax Specific"
+			],
+			[
+				"pref",
+				"Preferences: Settings"
+			],
+			[
+				"doc",
+				"Goto Documentation"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"repl",
+				"Set Syntax: Io Repl"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"im",
+				"FPC: Implement Method"
+			],
+			[
+				"impl",
+				"FPC: Implement Method"
+			],
+			[
+				"imple",
+				"FPC: Implement Method"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"ui",
+				"UI: Select Theme"
+			],
+			[
+				"res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pack",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"fcp",
+				"Set Syntax: FPC"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Disable Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"dsiable",
+				"Package Control: Disable Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"resou",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"bash",
+				"Set Syntax: Bourne Again Shell (bash)"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"cmake",
+				"CMakeBuilder: New Project"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"dsiab",
+				"Package Control: Disable Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"FPC",
+				"Set Syntax: FPC"
+			],
+			[
+				"them",
+				"UI: Select Theme"
+			],
+			[
+				"pre",
+				"Preferences: Settings"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"prefer",
+				"Preferences: Settings"
+			],
+			[
+				"resour",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"tag",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"reso",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"keys",
+				"Preferences: Key Bindings"
+			],
+			[
+				"prefe",
+				"Preferences: Settings"
+			],
+			[
+				"resource",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ope",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"extr",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"extract",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"removeP",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Uppe",
+				"Convert Case: Upper Case"
+			],
+			[
+				"c#",
+				"Set Syntax: C#"
+			],
+			[
+				"Package Control: e",
+				"Package Control: List Packages"
+			],
+			[
+				"resu",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"resourc",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"syntax: fpc",
+				"Set Syntax: FPC"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"syb",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"html",
+				"Snippet: htmlboiler"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"term",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"termina",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"Package Control: enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: di",
+				"Package Control: Disable Package"
+			],
+			[
+				"find",
+				"Find: In Project"
+			],
+			[
+				"Package Control: IN",
+				"Package Control: Install Package"
+			],
+			[
+				"goto",
+				"Goto Documentation"
+			],
+			[
+				"r",
+				"Rot13 Selection"
+			],
+			[
+				"Package Control: enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: d",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: p",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 410.0
+	},
+	"console":
+	{
+		"height": 263.0,
+		"history":
+		[
+			"clr",
+			"clc",
+			"clear",
+			"view.add_regions(\"test\", view.sel(), \"region.redish\", flags=sublime.DRAW_SOLID_UNDERLINE | sublime.DRAW_NO_FILL | sublime.DRAW_NO_OUTLINE)",
+			"run_command(\"expand_selection\", {\"to\": \"word\"})",
+			"ff",
+			"view.run_command(\"toggle_break_point\")",
+			"view.run_command(\"set_mark\")",
+			"add_regions",
+			"view.run_command(\"set_mark\")",
+			"f",
+			"window.run_command(\"find_under_expand\")",
+			"sublime.run_command(\"find_under_expand\")",
+			"view.run_command(\"find_under_expand\")",
+			"rot13",
+			"view.runCommand('rot13')",
+			"rot13",
+			"view.runCommand('rot13')",
+			"whoami",
+			"view.erase_phantoms(\"test\");",
+			"view.run_command(\"example\")",
+			"sdf",
+			"os.system(\"cls\")",
+			"os.system(\"clear\")",
+			"console.clear()",
+			"clear()",
+			"clear",
+			"sublime.version()"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/ryanjoseph/Developer/Projects/FPC/CocoaExamples/CollectionView",
+		"/Users/ryanjoseph/Developer/Projects/FPC/CocoaExamples/CollectionView/BaseUI",
+		"/Users/ryanjoseph/Developer/Projects/FPC/CocoaExamples/CollectionView/BaseUI/BaseUI",
+		"/Users/ryanjoseph/Developer/Projects/FPC/CocoaExamples/CollectionView/BaseUI/BaseUI/Base.lproj",
+		"/Users/ryanjoseph/Developer/Projects/FPC/CocoaExamples/CollectionView/BaseUI/DerivedData",
+		"/Users/ryanjoseph/Developer/Projects/FPC/CocoaExamples/CollectionView/sources"
+	],
+	"file_history":
+	[
+		"/main.pas",
+		"/Users/ryanjoseph/Library/Application Support/Sublime Text 3/Packages/FPC/FPC.sublime-settings",
+		"/Users/ryanjoseph/Developer/Projects/FPC/CocoaExamples/CollectionView/sources/CocoaUtils.pas",
+		"/Users/ryanjoseph/Library/Application Support/Sublime Text 3/Packages/FPC/snippets/IBAction.sublime-snippet",
+		"/Users/ryanjoseph/Library/Application Support/Sublime Text 3/Packages/FPC/snippets/function (declared).sublime-snippet",
+		"/Users/ryanjoseph/Library/Application Support/Sublime Text 3/Packages/FPC/snippets/case.sublime-snippet",
+		"/Users/ryanjoseph/Desktop/Projects/Games/OpenGL-Sandbox/Units/SpriteEngine/SCDrawing.pas",
+		"/Users/ryanjoseph/Desktop/Projects/Games/Syndicate/UHeap.pas",
+		"/Users/ryanjoseph/Desktop/Projects/Games/Syndicate/resources/shaders/ObjectFragmentShader.glsl",
+		"/Users/ryanjoseph/Desktop/Projects/Games/Syndicate/UTerrain.pas",
+		"/Users/ryanjoseph/Desktop/Projects/Games/Syndicate/Utils.pas",
+		"/Users/ryanjoseph/Desktop/Projects/Games/Syndicate/UCamera.pas",
+		"/Users/ryanjoseph/Developer/Projects/FPC/GLCanvas/BeRoPNG.pas",
+		"/Users/ryanjoseph/Developer/Projects/FPC/GLCanvas/GLCanvas",
+		"/Users/ryanjoseph/Desktop/Projects/Games/Syndicate/UMap.pas",
+		"/Users/ryanjoseph/Desktop/Projects/Games/Syndicate/UWorld.pas",
+		"/Users/ryanjoseph/Library/Application Support/Sublime Text 3/Packages/Default/Default.sublime-commands",
+		"/Users/ryanjoseph/Developer/Projects/FPC/GLCanvas/GLCanvas.pas",
+		"/Users/ryanjoseph/Desktop/Projects/Games/Syndicate/UHeap2.pas",
+		"/Users/ryanjoseph/Desktop/Projects/Games/Syndicate/Syndicate.code-workspace",
+		"/Users/ryanjoseph/Developer/Projects/FPC/GLCanvas/GeometryTypes.pas",
+		"/Users/ryanjoseph/Developer/Projects/FPC/GLCanvas/GLVertexBuffer.pas",
+		"/Users/ryanjoseph/Desktop/Projects/Games/Syndicate/UQuadTree.pas",
+		"/Users/ryanjoseph/Developer/Projects/FPC/GLCanvas/include/Textures.inc",
+		"/Users/ryanjoseph/Library/Application Support/Sublime Text 3/Packages/FPC/fpc_exec.py",
+		"/Users/ryanjoseph/Library/Application Support/Sublime Text 3/Packages/FPC/fpc_utils.py",
+		"/Users/ryanjoseph/Library/Application Support/Sublime Text 3/Packages/Default/exec.py",
+		"/Users/ryanjoseph/Desktop/Projects/Games/Syndicate/Compiling /Users/ryanjoseph/Desktop/Projects/Games/Syndicate/Main.pas/Users/ryanjoseph/Desktop/Projects/Games/Syndicate/Main.pas:39: error: 60: Illegal symbol for property access/Users/ryanjoseph/Desktop/Projects/Games/Syndicate/Main.pas:270: error: 19: Function header doesn't match the previous declaration \"SetOffset(constref TGVec2$1$crc713F463B);\"/Users/ryanjoseph/Desktop/Projects/Games/Syndicate/Main.pas",
+		"/Users/ryanjoseph/Desktop/Projects/Games/Syndicate/Copyright (c) 1993-2019 by Florian Klaempfl and othersTarget OS: Darwin for x86_64Compiling /Users/ryanjoseph/Desktop/Projects/Games/Syndicate/Main.pas/Users/ryanjoseph/Desktop/Projects/Games/Syndicate/Main.pas:39: error: 60: Illegal symbol for property access/Users/ryanjoseph/Desktop/Projects/Games/Syndicate/Main.pas:270: error: 19: Function header doesn't match the previous declaration \"SetOffset(constref TGVec2$1$crc713F463B);\"/Users/ryanjoseph/Desktop/Projects/Games/Syndicate/Main.pas",
+		"/Users/ryanjoseph/Desktop/Projects/Games/Syndicate/Load project '/Users/ryanjoseph/Desktop/Projects/Games/Syndicate'mkdir -p ./console.debug.ppcx64/usr/local/lib/fpc/3.3.1/ppcx64 \"./Main.pas\" -Xs- -vbr -k\"-rpath @loader_path/Frameworks\" -dDARWIN -godwarfcpp -gw -WM10.10 -FU\"./console.debug.ppcx64\" -XR\"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk\" -o\"./Syndicate\" -Fu\".\" -Fu\"/Users/ryanjoseph/Developer/Projects/FPC/GLCanvas\" -Fu\"/Users/ryanjoseph/Developer/Projects/FPC/GLPT\" -Fu\"/Users/ryanjoseph/Developer/Projects/FPC/GLPT/lib/IOKit\" -Fu\"/Users/ryanjoseph/Developer/ObjectivePascal/fpc-trunk/rtl/units/x86_64-darwin\" -Fu\"/Users/ryanjoseph/Developer/ObjectivePascal/fpc-trunk/packages/rtl-extra/units/x86_64-darwin\" -Fu\"/Users/ryanjoseph/Developer/ObjectivePascal/fpc-trunk/packages/rtl-objpas/units/x86_64-darwin\" -Fu\"/Users/ryanjoseph/Developer/ObjectivePascal/fpc-trunk/packages/fcl-image/units/x86_64-darwin\" -Fu\"/Users/ryanjoseph/Developer/ObjectivePascal/fpc-trunk/packages/fcl-xml/units/x86_64-darwin\" -Fu\"/Users/ryanjoseph/Developer/ObjectivePascal/fpc-trunk/packages/fcl-base/units/x86_64-darwin\" -Fu\"/Users/ryanjoseph/Developer/ObjectivePascal/fpc-trunk/packages/fcl-json/units/x86_64-darwin\" -Fu\"/Users/ryanjoseph/Developer/ObjectivePascal/fpc-trunk/packages/opengl/units/x86_64-darwin\" -Fu\"/Users/ryanjoseph/Developer/ObjectivePascal/fpc-trunk/packages/univint/units/x86_64-darwin\" -Fu\"/Users/ryanjoseph/Developer/ObjectivePascal/fpc-trunk/packages/cocoaint/units/x86_64-darwin\" -Ff\"/Library/Frameworks\" -Fl\".\"[/usr/local/lib/fpc/3.3.1/ppcx64 \"/Users/ryanjoseph/Desktop/Projects/Games/Syndicate/Main.pas\" -Xs- -vbr -k\"-rpath @loader_path/Frameworks\" -dDARWIN -godwarfcpp -gw -WM10.10 -FU\"/Users/ryanjoseph/Desktop/Projects/Games/Syndicate/console.debug.ppcx64\" -XR\"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk\" -o\"/Users/ryanjoseph/Desktop/Projects/Games/Syndicate/Syndicate\" -Fu\"/Users/ryanjoseph/Desktop/Projects/Games/Syndicate\" -Fu\"/Users/ryanjoseph/Developer/Projects/FPC/GLCanvas\" -Fu\"/Users/ryanjoseph/Developer/Projects/FPC/GLPT\" -Fu\"/Users/ryanjoseph/Developer/Projects/FPC/GLPT/lib/IOKit\" -Fu\"/Users/ryanjoseph/Developer/ObjectivePascal/fpc-trunk/rtl/units/x86_64-darwin\" -Fu\"/Users/ryanjoseph/Developer/ObjectivePascal/fpc-trunk/packages/rtl-extra/units/x86_64-darwin\" -Fu\"/Users/ryanjoseph/Developer/ObjectivePascal/fpc-trunk/packages/rtl-objpas/units/x86_64-darwin\" -Fu\"/Users/ryanjoseph/Developer/ObjectivePascal/fpc-trunk/packages/fcl-image/units/x86_64-darwin\" -Fu\"/Users/ryanjoseph/Developer/ObjectivePascal/fpc-trunk/packages/fcl-xml/units/x86_64-darwin\" -Fu\"/Users/ryanjoseph/Developer/ObjectivePascal/fpc-trunk/packages/fcl-base/units/x86_64-darwin\" -Fu\"/Users/ryanjoseph/Developer/ObjectivePascal/fpc-trunk/packages/fcl-json/units/x86_64-darwin\" -Fu\"/Users/ryanjoseph/Developer/ObjectivePascal/fpc-trunk/packages/opengl/units/x86_64-darwin\" -Fu\"/Users/ryanjoseph/Developer/ObjectivePascal/fpc-trunk/packages/univint/units/x86_64-darwin\" -Fu\"/Users/ryanjoseph/Developer/ObjectivePascal/fpc-trunk/packages/cocoaint/units/x86_64-darwin\" -Ff\"/Library/Frameworks\" -Fl\"/Users/ryanjoseph/Desktop/Projects/Games/Syndicate\"]Free Pascal Compiler version 3.3.1 [2019/10/10] for x86_64Copyright (c) 1993-2019 by Florian Klaempfl and othersTarget OS: Darwin for x86_64Compiling /Users/ryanjoseph/Desktop/Projects/Games/Syndicate/Main.pas/Users/ryanjoseph/Desktop/Projects/Games/Syndicate/Main.pas:39: error: 60: Illegal symbol for property access/Users/ryanjoseph/Desktop/Projects/Games/Syndicate/Main.pas:270: error: 19: Function header doesn't match the previous declaration \"SetOffset(constref TGVec2$1$crc713F463B);\"/Users/ryanjoseph/Desktop/Projects/Games/Syndicate/Main.pas",
+		"/Users/ryanjoseph/Library/Application Support/Sublime Text 3/Packages/User/C#-Xcode.tmTheme",
+		"/Users/ryanjoseph/Library/Application Support/Sublime Text 3/Packages/User/PHP-Xcode.tmTheme",
+		"/Users/ryanjoseph/Library/Application Support/Sublime Text 3/Packages/User/Python-Xcode.tmTheme",
+		"/Users/ryanjoseph/Library/Application Support/Sublime Text 3/Packages/Default/mark.py",
+		"/Users/ryanjoseph/Library/Application Support/Sublime Text 3/Packages/Default/goto_line.py",
+		"/Users/ryanjoseph/Library/Application Support/Sublime Text 3/Packages/FPC/FPC.sublime-build",
+		"/Users/ryanjoseph/Library/Application Support/Sublime Text 3/Packages/FPC/build.php",
+		"/Users/ryanjoseph/Developer/Projects/FPC/GLCanvas/GLShader.pas",
+		"/Users/ryanjoseph/Developer/Projects/FPC/GLCanvas/include/BitmapFont.inc",
+		"/Users/ryanjoseph/Developer/Projects/FPC/GLCanvas/TileMap.pas",
+		"/Users/ryanjoseph/Desktop/Projects/Games/Syndicate/resources/shaders/ObjectVertexShader.glsl",
+		"/Users/ryanjoseph/Desktop/Projects/Games/Syndicate/VertexTypes.pas",
+		"/Users/ryanjoseph/Developer/Projects/FPC/GLCanvas/VectorMath.pas",
+		"/Users/ryanjoseph/Desktop/Projects/Games/Syndicate/.gitignore",
+		"/Users/ryanjoseph/Developer/Projects/FPC/GLCanvas/GLFrameBuffer.pas",
+		"/Users/ryanjoseph/Desktop/Projects/Games/Syndicate/UActor.pas",
+		"/Users/ryanjoseph/Desktop/Projects/Games/Syndicate/Syndicate.sublime-project",
+		"/Users/ryanjoseph/Desktop/Projects/Games/Syndicate/resources/shaders/SortingFragmentShader.glsl",
+		"/Users/ryanjoseph/Developer/Projects/FPC/OpenGL-Tests/Sources/Tests/Test_2_Jumps.pas",
+		"/Users/ryanjoseph/Developer/Projects/FPC/GLPT/include/darwin/ptypes.inc",
+		"/Users/ryanjoseph/Developer/Projects/FPC/GLPT/GLPT.pas",
+		"/Users/ryanjoseph/Developer/Projects/FPC/GLPT/include/GLPT_Cocoa.inc",
+		"/Users/ryanjoseph/Developer/Projects/FPC/GLCanvas/include/Utils.inc",
+		"/Users/ryanjoseph/Library/Application Support/Sublime Text 3/Packages/Highlight Build Errors/HighlightBuildErrors.py",
+		"/Users/ryanjoseph/Library/Application Support/Sublime Text 3/Packages/FPC/Xcode.tmTheme",
+		"/Users/ryanjoseph/Library/Application Support/Sublime Text 3/Packages/FPC/FPC.tmLanguage",
+		"/Users/ryanjoseph/Developer/Projects/FPC/GLPT/GLPT",
+		"/Users/ryanjoseph/Desktop/Projects/Games/Syndicate/resources/shaders/SortingVertexShader.glsl",
+		"/Users/ryanjoseph/Developer/Projects/FPC/GLCanvas/GLUtils.pas",
+		"/Users/ryanjoseph/Desktop/Projects/Games/Syndicate/GridUtils.pas",
+		"/Users/ryanjoseph/Developer/Projects/FPC/GLCanvas/examples/CoreGL_Iso.pas",
+		"/Users/ryanjoseph/Developer/Projects/FPC/GLCanvas/include/FileUtils.inc",
+		"/Users/ryanjoseph/Developer/Projects/FPC/GLCanvas/VectorMath2.pas",
+		"/Users/ryanjoseph/Developer/Projects/FPC/Various/generic_vector_2.pas",
+		"/Users/ryanjoseph/Desktop/maps3.json",
+		"/Users/ryanjoseph/Developer/ObjectivePascal/fpc-git/rtl/objpas/math.pp",
+		"/Users/ryanjoseph/Developer/ObjectivePascal/fpc-git/rtl/macos/system.pp",
+		"/Users/ryanjoseph/Desktop/maps2.json",
+		"/Users/ryanjoseph/Desktop/Projects/Games/Syndicate/UGameObject.pas",
+		"/Users/ryanjoseph/Developer/Projects/FPC Projects/Various/refcount.pas",
+		"/Users/ryanjoseph/Desktop/Projects/Games/Syndicate/multihelpers_bug.pas",
+		"/Users/ryanjoseph/Library/Application Support/Sublime Text 3/Packages/FPC/completions/modeswitch.sublime-completions",
+		"/Users/ryanjoseph/Library/Application Support/Sublime Text 3/Packages/FPC/completions/class.sublime-completions",
+		"/Users/ryanjoseph/Library/Application Support/Sublime Text 3/Packages/FPC/snippets/header.sublime-snippet",
+		"/Users/ryanjoseph/Desktop/maps1.json",
+		"/Users/ryanjoseph/Developer/Projects/FPC/GLPT/include/GLPT_Keyboard.inc",
+		"/Users/ryanjoseph/Developer/Projects/FPC Projects/GLCanvas/GLCanvas.pas",
+		"/Users/ryanjoseph/Developer/Projects/FPC Projects/GLCanvas/include/Textures.inc",
+		"/Users/ryanjoseph/Developer/Projects/FPC/GLCanvas/examples/CoreGL_Textures.pas",
+		"/Users/ryanjoseph/Developer/Projects/FPC/GLCanvas/include/Geometry.inc",
+		"/Users/ryanjoseph/Developer/Projects/FPC/GLPT/include/GLPT_Threads.inc",
+		"/Users/ryanjoseph/Library/Application Support/Sublime Text 3/Packages/FPC/fpcproj.php",
+		"/Users/ryanjoseph/Developer/Projects/FPC/GLCanvas/GLCanvas.sublime-project",
+		"/Users/ryanjoseph/Developer/Projects/FPC/GLCanvas/resources/syndicate_map.tsx",
+		"/Users/ryanjoseph/Developer/Projects/FPC/GLCanvas/resources/syndicate_map.tmx",
+		"/Users/ryanjoseph/Developer/Projects/FPC/GLCanvas/examples/CoreGL_TMX.pas",
+		"/Users/ryanjoseph/Desktop/map.txt",
+		"/Users/ryanjoseph/Developer/Projects/FPC/GLCanvas/examples/CoreGL_Text.pas",
+		"/Users/ryanjoseph/Developer/Projects/FPC/GLCanvas/examples/CoreGL_Tiles.pas",
+		"/Users/ryanjoseph/Developer/Projects/FPC/GLCanvas/examples/CoreGL_Pixels.pas",
+		"/Users/ryanjoseph/Library/Application Support/Sublime Text 3/Packages/FPC/snippets/constructor (declared).sublime-snippet",
+		"/Users/ryanjoseph/Developer/Projects/FPC/FPCLanguageServer/messages/didChange.json",
+		"/Users/ryanjoseph/Library/Application Support/Sublime Text 3/Packages/FPC/snippets/for-in.sublime-snippet",
+		"/Users/ryanjoseph/Developer/Projects/FPC/FPCLanguageServer/tests/classes.pas",
+		"/Users/ryanjoseph/Developer/Projects/FPC/FPCLanguageServer/FPCLanguageServer.sublime-project",
+		"/Users/ryanjoseph/Developer/Projects/FPC/FPCLanguageServer/Protocol.pas",
+		"/Users/ryanjoseph/Developer/Projects/FPC/FPCLanguageServer/tests/bugs.pas",
+		"/Users/ryanjoseph/Developer/Projects/FPC/FPCLanguageServer/Utils.pas",
+		"/Users/ryanjoseph/Developer/Projects/FPC/FPCLanguageServer/tests/main.pas",
+		"/Users/ryanjoseph/Desktop/FPCLS-Test/units/fpcdefs.inc",
+		"/Users/ryanjoseph/Developer/Projects/FPC/FPCLanguageServer/tests/utest.pas",
+		"/Users/ryanjoseph/Developer/Projects/FPC/FPCLanguageServer/LSPSpec.pas",
+		"/Users/ryanjoseph/Developer/Projects/FPC/FPCLanguageServer/client.php",
+		"/Users/ryanjoseph/Library/Application Support/Sublime Text 3/Packages/User/LSP.sublime-settings",
+		"/Developer/ObjectivePascal/fpc-git/packages/fcl-passrc/src/pastree.pp",
+		"/Users/ryanjoseph/Library/Application Support/Sublime Text 3/Packages/FPC/snippets/comment.sublime-snippet",
+		"/Users/ryanjoseph/Library/Application Support/Sublime Text 3/Packages/FPC/snippets/comment-long.sublime-snippet",
+		"/Users/ryanjoseph/Library/Application Support/Sublime Text 3/Packages/FPC/snippets/try..finally.sublime-snippet",
+		"/Users/ryanjoseph/Library/Application Support/Sublime Text 3/Packages/FPC/snippets/try..except.sublime-snippet",
+		"/Developer/Projects/FPC/FPCLanguageServer/DocParser.pas",
+		"/Developer/Projects/FPC/FPCLanguageServer/FPCLanguageServer.sublime-project",
+		"/Users/ryanjoseph/Desktop/Projects/Units/Base/UArchive.pas",
+		"/Developer/Projects/FPC/FPCLanguageServer/Protocol.pas",
+		"/Developer/Projects/FPC/FPCLanguageServer/Utils.pas",
+		"/Developer/ObjectivePascal/MacOS_10_10/appkit/NSAccessibilityProtocols.inc",
+		"/Users/ryanjoseph/Library/Application Support/Sublime Text 3/Packages/LSP/messages.json",
+		"/Developer/Projects/FPC/PasScript/Makefile",
+		"/Developer/Projects/FPC/PasScript/settings.inc",
+		"/Developer/Projects/FPC/PasScript/README.md",
+		"/Developer/Projects/FPC/PasScript/include/Utils.inc",
+		"/Users/ryanjoseph/Downloads/dcm2niix-test/product-error.xml",
+		"/Developer/Projects/FPC/PasScript/.gitignore",
+		"/Developer/Projects/FPC/PasScript/include/FileUtils.inc",
+		"/Developer/Projects/FPC/PasScript/PasScript.pas",
+		"/Developer/Projects/FPC/PasScript/deprecated.fpcbuild",
+		"/Developer/Projects/FPC/PasScript/PasScript.sublime-project",
+		"/Developer/Projects/FPC/PasScript/include/StrUtils.inc",
+		"/Developer/Projects/FPC/PasScript/tests/test_regex.pas"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 99.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"updateIcon",
+			"add_warning",
+			"reloadFolder",
+			"navigationStack",
+			"showInFinder",
+			"contextualClick",
+			"setRightMouseAction",
+			"reloadFolder",
+			"isDir",
+			"originalSize",
+			"workspaces",
+			"contextualClick",
+			"workspacesCollectionView"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "sources/AppDelegate.pas",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10966,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4001,
+								4327
+							]
+						],
+						"settings":
+						{
+							"function_name_status_row": 117,
+							"syntax": "Packages/FPC/FPC.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1691.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "sources/CollectionView.pas",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 191,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								152,
+								152
+							]
+						],
+						"settings":
+						{
+							"function_name_status_row": 9,
+							"syntax": "Packages/FPC/FPC.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "sources/CocoaUtils.pas",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2155,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								643,
+								677
+							]
+						],
+						"settings":
+						{
+							"function_name_status_row": 23,
+							"syntax": "Packages/FPC/FPC.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/ryanjoseph/Library/Application Support/Sublime Text 3/Packages/FPC/fpc_exec.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6234,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"function_name_status_row": 112,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/ryanjoseph/Library/Application Support/Sublime Text 3/Packages/Default/exec.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16459,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								236,
+								282
+							]
+						],
+						"settings":
+						{
+							"function_name_status_row": 17,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/ryanjoseph/Developer/Projects/FPC/Desklets/Sources/ScriptBrowser.pas",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 32450,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								20826,
+								20838
+							]
+						],
+						"settings":
+						{
+							"function_name_status_row": 551,
+							"syntax": "Packages/FPC/FPC.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/ryanjoseph/Developer/Projects/FPC/Desklets/Sources/FavoritesBrowser.pas",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6046,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								128,
+								128
+							]
+						],
+						"settings":
+						{
+							"function_name_status_row": 6,
+							"syntax": "Packages/FPC/FPC.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/ryanjoseph/Developer/Projects/FPC/Desklets/Sources/CollectionViewUtilities.pas",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5227,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								705,
+								680
+							]
+						],
+						"settings":
+						{
+							"function_name_status_row": 25,
+							"syntax": "Packages/FPC/FPC.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.diagnostics":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 334.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/FPC/FPC.sublime-build",
+	"project": "CollectionView.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"heap",
+				"Syndicate/UHeap.pas"
+			],
+			[
+				"GLCan",
+				"GLCanvas/GLCanvas.pas"
+			],
+			[
+				"GLC",
+				"GLCanvas/GLCanvas"
+			],
+			[
+				"Ber",
+				"GLCanvas/BeRoPNG.pas"
+			],
+			[
+				"TExt",
+				"GLCanvas/include/Textures.inc"
+			],
+			[
+				"UHeap",
+				"Syndicate/UHeap.pas"
+			],
+			[
+				"Uqad",
+				"Syndicate/UQuadTree.pas"
+			],
+			[
+				"UQuad",
+				"Syndicate/UQuadTree.pas"
+			],
+			[
+				"GLSH",
+				"GLCanvas/GLShader.pas"
+			],
+			[
+				"Geom",
+				"GLCanvas/GeometryTypes.pas"
+			],
+			[
+				"Text",
+				"GLCanvas/include/Textures.inc"
+			],
+			[
+				"BE",
+				"GLCanvas/BeRoPNG.pas"
+			],
+			[
+				"GLVer",
+				"GLCanvas/GLVertexBuffer.pas"
+			],
+			[
+				"GLShad",
+				"GLCanvas/GLShader.pas"
+			],
+			[
+				"vet",
+				"GLCanvas/VectorMath.pas"
+			],
+			[
+				"Vector",
+				"GLCanvas/VectorMath.pas"
+			],
+			[
+				"Actor",
+				"Syndicate/UActor.pas"
+			],
+			[
+				"GLFrame",
+				"GLCanvas/GLFrameBuffer.pas"
+			],
+			[
+				"glc",
+				"GLCanvas/GLCanvas.pas"
+			],
+			[
+				"Vec",
+				"GLCanvas/VectorMath.pas"
+			],
+			[
+				"UAc",
+				"Syndicate/UActor.pas"
+			],
+			[
+				"utils",
+				"Syndicate/Utils.pas"
+			],
+			[
+				"util",
+				"GLCanvas/include/Utils.inc"
+			],
+			[
+				"Cocoa",
+				"GLPT/include/GLPT_Cocoa.inc"
+			],
+			[
+				"glpt",
+				"GLPT/GLPT.pas"
+			],
+			[
+				"cocoa",
+				"GLPT/include/GLPT_Cocoa.inc"
+			],
+			[
+				"geom",
+				"GLCanvas/GeometryTypes.pas"
+			],
+			[
+				"CLCan",
+				"GLPT/include/GLPT_Cocoa.inc"
+			],
+			[
+				"vector",
+				"GLCanvas/VectorMath.pas"
+			],
+			[
+				"World",
+				"Syndicate/UWorld.pas"
+			],
+			[
+				"GLPT",
+				"GLPT/GLPT.pas"
+			],
+			[
+				"GLTP",
+				"GLPT/GLPT"
+			],
+			[
+				"GLVertexBuffer",
+				"GLCanvas/GLVertexBuffer.pas"
+			],
+			[
+				"uMap",
+				"Syndicate/UMap.pas"
+			],
+			[
+				"UMap",
+				"Syndicate/UMap.pas"
+			],
+			[
+				"Bitmap",
+				"GLCanvas/include/BitmapFont.inc"
+			],
+			[
+				"texture",
+				"GLCanvas/include/Textures.inc"
+			],
+			[
+				"textures",
+				"GLCanvas/include/Textures.inc"
+			],
+			[
+				"world",
+				"Syndicate/UWorld.pas"
+			],
+			[
+				"Texture",
+				"GLCanvas/include/Textures.inc"
+			],
+			[
+				"COcoa",
+				"GLPT/include/GLPT_Cocoa.inc"
+			],
+			[
+				"GLCOcoa",
+				"GLPT/include/GLPT_Cocoa.inc"
+			],
+			[
+				"bitm",
+				"GLCanvas/include/BitmapFont.inc"
+			],
+			[
+				"Bitm",
+				"GLCanvas/include/BitmapFont.inc"
+			],
+			[
+				"Geometry",
+				"GLCanvas/include/Geometry.inc"
+			],
+			[
+				"bitmp",
+				"GLCanvas/include/BitmapFont.inc"
+			],
+			[
+				"Textures",
+				"GLCanvas/include/Textures.inc"
+			],
+			[
+				"GLCanvas",
+				"GLCanvas/GLCanvas.pas"
+			],
+			[
+				"the",
+				"GLPT/include/GLPT_Threads.inc"
+			],
+			[
+				"CoreGL_Tiles.pas",
+				"GLCanvas/examples/CoreGL_Tiles.pas"
+			],
+			[
+				"CoreGL_Text.pas",
+				"GLCanvas/examples/CoreGL_Text.pas"
+			],
+			[
+				"VectorMath.pas",
+				"GLCanvas/VectorMath.pas"
+			],
+			[
+				"GLCanvas.pas",
+				"GLCanvas/GLCanvas.pas"
+			],
+			[
+				"Vecot",
+				"GLCanvas/VectorMath.pas"
+			],
+			[
+				"fileU",
+				"include/FileUtils.inc"
+			],
+			[
+				"web",
+				"include/WebUtils.inc"
+			],
+			[
+				"UDict",
+				"include/Dictionary.inc"
+			],
+			[
+				"settin",
+				"settings.inc"
+			],
+			[
+				"value",
+				"include/Values.inc"
+			],
+			[
+				"str",
+				"include/StrUtils.inc"
+			],
+			[
+				"files",
+				"include/FileUtils.inc"
+			],
+			[
+				"rege",
+				"include/Regex.inc"
+			],
+			[
+				"proces",
+				"include/ProcessUtils.inc"
+			],
+			[
+				"fileu",
+				"include/FileUtils.inc"
+			],
+			[
+				"plist",
+				"include/PListUtils.inc"
+			],
+			[
+				"pas",
+				"PasScript.pas"
+			],
+			[
+				"Pas",
+				"PasScript.pas"
+			],
+			[
+				"dict",
+				"include/Dictionary.inc"
+			],
+			[
+				"proce",
+				"include/ProcessUtils.inc"
+			],
+			[
+				"pasp",
+				"PasScript.pas"
+			],
+			[
+				"Vale",
+				"include/Values.inc"
+			],
+			[
+				"SCanner",
+				"Scanner.pas"
+			],
+			[
+				"file",
+				"include/FileUtils.inc"
+			],
+			[
+				"XML",
+				"include/XMLUtils.inc"
+			],
+			[
+				"FileU",
+				"include/FileUtils.inc"
+			],
+			[
+				"pps",
+				"pps.pas"
+			],
+			[
+				"Scanner",
+				"Scanner.pas"
+			],
+			[
+				"reg",
+				"include/Regex.inc"
+			],
+			[
+				"UVal",
+				"include/Values.inc"
+			],
+			[
+				"Priv",
+				"include/PrivateUtils.inc"
+			],
+			[
+				"priv",
+				"include/PrivateUtils.inc"
+			],
+			[
+				"LIst",
+				"include/List.inc"
+			],
+			[
+				"Dict",
+				"include/Dictionary.inc"
+			],
+			[
+				"proc",
+				"include/ProcessUtils.inc"
+			],
+			[
+				"list",
+				"include/List.inc"
+			],
+			[
+				"passc",
+				"PasScript.pas"
+			],
+			[
+				"base",
+				"include/BaseUnix.inc"
+			],
+			[
+				"baseu",
+				"include/BaseUnix.inc"
+			],
+			[
+				"regex",
+				"include/Regex.inc"
+			],
+			[
+				"repg",
+				"tests/regex.pas"
+			],
+			[
+				"val",
+				"include/Values.inc"
+			],
+			[
+				"UList",
+				"include/List.inc"
+			],
+			[
+				"vale",
+				"include/Values.inc"
+			],
+			[
+				"stru",
+				"include/StrUtils.inc"
+			],
+			[
+				"CNet",
+				"include/CNet.inc"
+			],
+			[
+				"cnet",
+				"include/CNet.inc"
+			],
+			[
+				"webU",
+				"include/WebUtils.inc"
+			],
+			[
+				"values",
+				"include/Values.inc"
+			],
+			[
+				"Scann",
+				"Scanner.pas"
+			],
+			[
+				"List",
+				"include/List.inc"
+			],
+			[
+				"private",
+				"include/PrivateUtils.inc"
+			],
+			[
+				"strU",
+				"include/StrUtils.inc"
+			],
+			[
+				"Udict",
+				"include/Dictionary.inc"
+			],
+			[
+				"Uva",
+				"include/Values.inc"
+			],
+			[
+				"notes",
+				"macro_test/notes.pas"
+			],
+			[
+				"pinline",
+				"compiler/pinline.pas"
+			],
+			[
+				"ncal",
+				"compiler/ncal.pas"
+			],
+			[
+				"ppudum",
+				"compiler/utils/ppuutils/ppudump.pp"
+			],
+			[
+				"ppudu",
+				"compiler/utils/ppudump"
+			],
+			[
+				"rtti",
+				"compiler/ncgrtti.pas"
+			],
+			[
+				"ncgnstmm",
+				"compiler/ncgnstmm.pas"
+			],
+			[
+				"ncgnstld",
+				"compiler/ncgnstld.pas"
+			],
+			[
+				"defcm",
+				"compiler/defcmp.pas"
+			],
+			[
+				"panon",
+				"compiler/panonym.pas"
+			],
+			[
+				"pnon",
+				"compiler/panonym.pas"
+			],
+			[
+				"nut",
+				"compiler/nutils.pas"
+			],
+			[
+				"nutils",
+				"compiler/nutils.pas"
+			],
+			[
+				"ogomf",
+				"compiler/ogomf.pas"
+			],
+			[
+				"symdef",
+				"compiler/symdef.pas"
+			],
+			[
+				"psub",
+				"compiler/psub.pas"
+			],
+			[
+				"pexp",
+				"compiler/pexpr.pas"
+			],
+			[
+				"pobj",
+				"compiler/pdecobj.pas"
+			],
+			[
+				"nld",
+				"compiler/nld.pas"
+			],
+			[
+				"pdecv",
+				"compiler/pdecvar.pas"
+			],
+			[
+				"pdecl",
+				"compiler/pdecl.pas"
+			],
+			[
+				"pty",
+				"compiler/ptype.pas"
+			],
+			[
+				"fpcdefs",
+				"compiler/fpcdefs.inc"
+			],
+			[
+				"pnam",
+				"compiler/pnameless.pas"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 54.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"rand",
+				"Rand"
+			],
+			[
+				"LoadPNG",
+				"LoadPNG"
+			],
+			[
+				"ScreenToView",
+				"ScreenToView"
+			],
+			[
+				"FillRect",
+				"FillRect"
+			],
+			[
+				"ran",
+				"Rand"
+			],
+			[
+				"TObjectList",
+				"TMapObjectList"
+			],
+			[
+				"BoundingViewRect",
+				"BoundingViewRect"
+			],
+			[
+				"GLFatal",
+				"GLFatal"
+			],
+			[
+				"Poly",
+				"PolyContainsPoint"
+			],
+			[
+				"TMap",
+				"TMap"
+			],
+			[
+				"HeightAt",
+				"HeightAt"
+			],
+			[
+				"Clamp",
+				"Clamp"
+			],
+			[
+				"GLPTRe",
+				"GLPTRect"
+			],
+			[
+				"GLFata",
+				"GLFatal"
+			],
+			[
+				"ReadFile",
+				"ReadFile"
+			],
+			[
+				"DrawText",
+				"DrawTexture2"
+			],
+			[
+				"timeSIn",
+				"TimeSinceNow"
+			],
+			[
+				"bindText",
+				"BindTexture2D"
+			],
+			[
+				"TColor",
+				"TColor"
+			],
+			[
+				"SetPosition",
+				"SetPosition"
+			],
+			[
+				"TTextureSheet",
+				"TTextureSheet"
+			],
+			[
+				"TPasProcedure",
+				"TPasProcedure"
+			],
+			[
+				"TPasMod",
+				"TPasModule"
+			],
+			[
+				"TPasClassType",
+				"TPasClassType"
+			],
+			[
+				"TPasRecordType",
+				"TPasRecordType"
+			],
+			[
+				"tpasmode",
+				"TPasModule"
+			],
+			[
+				"TPasArgument",
+				"TPasArgument"
+			],
+			[
+				"preg_m",
+				"preg_match"
+			],
+			[
+				"Strpos",
+				"Strpos"
+			],
+			[
+				"expand",
+				"Expand"
+			],
+			[
+				"AppendBytes",
+				"StrAppendBytes"
+			],
+			[
+				"parsec",
+				"ParseCommandLine"
+			],
+			[
+				"mkdir",
+				"mkdir"
+			],
+			[
+				"basen",
+				"basename"
+			],
+			[
+				"basename",
+				"basename"
+			],
+			[
+				"TList",
+				"TList"
+			],
+			[
+				"TComp",
+				"TComparator"
+			],
+			[
+				"Show",
+				"Show"
+			],
+			[
+				"parsecomm",
+				"ParseCommandLine"
+			],
+			[
+				"getcw",
+				"getcwd"
+			],
+			[
+				"isdi",
+				"is_dir"
+			],
+			[
+				"timeS",
+				"TimeSinceNow"
+			],
+			[
+				"wra",
+				"Wrap"
+			],
+			[
+				"TimeSinceNow",
+				"TimeSinceNow"
+			],
+			[
+				"substr",
+				"Substr"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"popen",
+				"popen"
+			],
+			[
+				"wrap",
+				"Wrap"
+			],
+			[
+				"tformat",
+				"TStringFormatJSON"
+			],
+			[
+				"file_put_contents",
+				"file_put_contents"
+			],
+			[
+				"Contract",
+				"Contract"
+			],
+			[
+				"fatal",
+				"Fatal"
+			],
+			[
+				"toBoo",
+				"ToBool"
+			],
+			[
+				"mill",
+				"MillisecondsSinceNow"
+			],
+			[
+				"passthru",
+				"passthru"
+			],
+			[
+				"commandli",
+				"ParseCommandLine"
+			],
+			[
+				"preg_match",
+				"preg_match"
+			],
+			[
+				"blck",
+				"BlockMove"
+			],
+			[
+				"callcand",
+				"tcallcandidates"
+			],
+			[
+				"ttypeconvnode",
+				"ttypeconvnode"
+			],
+			[
+				"tpointerdef",
+				"tpointerdef"
+			],
+			[
+				"ttypecon",
+				"ttypeconvnode"
+			],
+			[
+				"tassign",
+				"tassignmentnode"
+			],
+			[
+				"tcallnode",
+				"tcallnode"
+			],
+			[
+				"needs_init",
+				"needs_inittable"
+			],
+			[
+				"search_",
+				"search_management_operator"
+			],
+			[
+				"m_class",
+				"m_class_operators"
+			],
+			[
+				"tObjectSymtable",
+				"tObjectSymtable"
+			],
+			[
+				"tobjectdef",
+				"tobjectdef"
+			],
+			[
+				"tabstractrec",
+				"tabstractrecorddef"
+			],
+			[
+				"tobjetdef",
+				"tobjectdef"
+			],
+			[
+				"tabstract",
+				"tabstractrecordsymtable"
+			],
+			[
+				"tabstractrecord",
+				"tabstractrecorddef"
+			],
+			[
+				"search_man",
+				"search_management_operator"
+			],
+			[
+				"tobject",
+				"tobjectdef"
+			],
+			[
+				"needs_inittable",
+				"needs_inittable"
+			],
+			[
+				"inittable",
+				"needs_inittable"
+			],
+			[
+				"is_manag",
+				"is_managed_type"
+			],
+			[
+				"is_object",
+				"is_object"
+			],
+			[
+				"tobjet",
+				"TObject"
+			],
+			[
+				"tsymtable",
+				"TSymtable"
+			],
+			[
+				"override",
+				"is_override"
+			],
+			[
+				"po_over",
+				"ppo_overrides"
+			],
+			[
+				"tprocdef",
+				"tprocdef"
+			],
+			[
+				"tprocs",
+				"tprocsym"
+			],
+			[
+				"tprocsym",
+				"tprocsym"
+			],
+			[
+				"Tproctypeoption",
+				"tproctypeoption"
+			],
+			[
+				"tprocsy",
+				"tprocsym"
+			],
+			[
+				"check_for",
+				"check_forwards"
+			],
+			[
+				"addmapping",
+				"AddMapping"
+			],
+			[
+				"ht_non",
+				"ht_none"
+			],
+			[
+				"thelpertyp",
+				"THelperType"
+			],
+			[
+				"taddr",
+				"taddrnode"
+			],
+			[
+				"trecorddef",
+				"trecorddef"
+			],
+			[
+				"trecord",
+				"trecorddef"
+			],
+			[
+				"tsym",
+				"tsym"
+			],
+			[
+				"procvar_dec",
+				"procvar_dec"
+			],
+			[
+				"is_manage",
+				"is_managed_type"
+			],
+			[
+				"management",
+				"search_management_operator"
+			],
+			[
+				"_OP_In",
+				"_OP_INITIALIZE"
+			],
+			[
+				"proc_def",
+				"parse_proc_dec_finish"
+			],
+			[
+				"tproc",
+				"tprocdef"
+			],
+			[
+				"_REFERENCE",
+				"_REFERENCE"
+			],
+			[
+				"po_ano",
+				"po_anonym"
+			],
+			[
+				"loadnf",
+				"loadnf_inherited"
+			],
+			[
+				"tabstractnormal",
+				"tabstractnormalvarsym"
+			],
+			[
+				"read_proc",
+				"read_proc"
+			],
+			[
+				"po_is_au",
+				"po_is_auto_getter"
+			],
+			[
+				"ppm_an",
+				"ppm_anonym_routine"
+			],
+			[
+				"parse_proc_head",
+				"parse_proc_head"
+			],
+			[
+				"m_arr",
+				"m_array_operators"
+			],
+			[
+				"isclas",
+				"is_classhelper"
+			],
+			[
+				"tdef",
+				"tdef"
+			],
+			[
+				"tabstractrecr",
+				"tabstractrecorddef"
+			],
+			[
+				"m_del",
+				"m_delphi"
+			],
+			[
+				"isoperatoracceptable",
+				"isoperatoracceptable"
+			],
+			[
+				"m_advan",
+				"m_advanced_records"
+			],
+			[
+				"m_adca",
+				"maybe_add_constructor_wrapper"
+			],
+			[
+				"create_candidate_list",
+				"create_candidate_list"
+			],
+			[
+				"method_e",
+				"method_dec"
+			],
+			[
+				"mo_",
+				"mop_finalize"
+			],
+			[
+				"flags",
+				"LOC_FLAGS"
+			],
+			[
+				"search_objectdef",
+				"search_objectdef"
+			],
+			[
+				"tcallparano",
+				"tcallparanode"
+			],
+			[
+				"tarrayd",
+				"tarraydef"
+			],
+			[
+				"tarray",
+				"tarraydef"
+			],
+			[
+				"dir_alignarray",
+				"dir_alignarray"
+			]
+		],
+		"width": 584.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 253.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
